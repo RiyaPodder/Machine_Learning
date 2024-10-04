@@ -1,0 +1,9 @@
+• SNPs.txt: Genotype data for 114 yeast strains and 1,260 SNPs. Each row corresponds to
+the SNP genotypes for each of the 114 strains. The top two rows are the genotypes of
+BY and RM strains, coded with all 1’s for BY and all 0’s for RM. The genotypes of the
+other progeny strains have a mixture of 1’s from BY and 0’s from RM. SNPs are ordered
+along the genome.
+• expression.txt: Gene expression levels for 114 yeast strains and 3,684 genes.
+• gene list.txt: The names of the 3,684 genes, for your reference.
+• strain list.txt: The names of the 114 yeast strains, for your reference. Note that the top
+two strains are BY and RM.
