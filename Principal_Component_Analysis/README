@@ -1,3 +1,5 @@
+Part of Assignment 3 of Machine Learning coursework at Carnegie Mellon University
+
 PCA implementation using covariance matrix by XT X and SVD.
 In this problem, you will be given an image as a input data. This allows us to think PCA not
 just finding the important PCs, but also think PCA as a reconstruction method.
