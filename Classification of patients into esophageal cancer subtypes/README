@@ -1,0 +1,7 @@
+Group project for the machine learning course at Carnegie Mellon University
+
+Classification of patients into esophageal cancer subtypes
+• Implemented machine learning models- random forests, support vector machines, and logistic regression
+• Applied it to the TCGA dataset on esophageal cancer to classify patients into cancer subtypes based on miRNA-seq data
+• Evaluated the performances of the above models and accomplished a 0.97 test F1 score using the random forest
+classifier
