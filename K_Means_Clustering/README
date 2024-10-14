@@ -1,3 +1,5 @@
+Part of Assignment 2 of Machine Learning coursework at Carnegie Mellon University
+
 Implement K-means algorithm and apply it to cluster genes using the mouse gene expression data from three brain
 tissue types, HIP, PFC, and STR. For each tissue type, data are provided in two files, one for
 expression data, where the rows are for mice/samples and the columns are for genes, and
