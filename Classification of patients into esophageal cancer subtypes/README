@@ -5,3 +5,6 @@ Classification of patients into esophageal cancer subtypes
 • Applied it to the TCGA dataset on esophageal cancer to classify patients into cancer subtypes based on miRNA-seq data
 • Evaluated the performances of the above models and accomplished a 0.97 test F1 score using the random forest
 classifier
+
+Code -> tgca_esca.py
+Report -> ml_report.pdf
