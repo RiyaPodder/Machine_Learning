@@ -1,0 +1,4 @@
+Mouse gene expression data from three brain
+tissue types, HIP, PFC, and STR. For each tissue type, data are provided in two files, one for
+expression data, where the rows are for mice/samples and the columns are for genes, and
+the other file for gene names.
