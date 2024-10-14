@@ -1,0 +1,4 @@
+Implement the EM algorithm for Gaussian mixture models. Apply this to the ex-
+pression data for mouse HIP brain tissue from the data in K-Means Clustering folder.
+Use only the first 10 mice (the
+first 10 rows in the data matrix) and cluster the genes.
