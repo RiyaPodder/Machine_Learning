@@ -1,3 +1,5 @@
+Part of Assignment 2 of Machine Learning coursework at Carnegie Mellon University
+
 Implement logistic regression using a gradient descent algorithm and then train a linear binary classification model.
 
 Question in LogRegQuestion.pdf
